@@ -26,7 +26,6 @@ N/A
 - UV index will indicate favorable (green), moderate (yellow) or severe (red).
 - In addition to current weather conditions, a 5-day forecast will also be displayed.
 - A search history will save data to the local storage. These search history items could then be clicked on to retrieve updated data once again.
-- The web app has been optimised for desktop and mobile usage.
 
 ## Credits
 
