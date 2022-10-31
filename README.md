@@ -33,4 +33,4 @@ N/A
 
 ## License
 
-Please refer to the repo.
+Please refer to the repository.
